@@ -1,0 +1,345 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start */
+.menu ul  li a{
+    font-size: 16px;
+    padding: 6px 0 0 !important;
+}
+.btn-search{
+    padding-left: 0;
+    font-size: 20px;
+}
+.btn-search i{
+    font-size: 20px;
+}
+.c_dd_menu {
+    min-width: 288px;
+}
+.c_dd_menu[data-bs-popper] {
+    top: 70px;
+    left: 0;
+}
+.fc {
+    padding: 6px 10px;
+}
+.b_s_icon {
+    font-size: 18px;
+    padding: 5px 13px;
+}
+/* header end */
+
+/* slider start */
+.slider_text{
+    margin: 80px 0;
+}
+.slider_text h1{
+    font-size: 24px;
+}
+.slider_text p{
+    margin: 15px 0 40px;
+    word-spacing: 0;
+}
+.ccp{
+    left: 0px;
+}
+.ccn{
+    left: 240px !important;
+}
+/* slider end */
+
+/* service start */
+.service{
+    padding: 10px 0 80px;
+}
+.s_single{
+    margin-top: 60px;
+}
+/* service end */
+.c_h1{
+    font-size: 24px;
+}
+/* service end */
+
+/* about start */
+.about{
+    padding-bottom: 80px;
+}
+.ab_title{
+    font-size: 24px;
+}
+.ab_image{
+    text-align: center;
+}
+.ab_text{
+    margin-top: 50px;
+    text-align: center;
+}
+.btn_about{
+    margin-top: 50px;
+}
+/* about end */
+
+/* choose start */
+.ch_single{
+    text-align: center;
+}
+.ch_title{
+    margin-top: 20px;
+}
+.ch_p{
+    margin: 12px 0;
+}
+/* choose end */
+
+/* worker */
+.image_bottom h2{
+    font-size: 16px;
+}
+.text_wrapper h2{
+    margin-top: 30px;
+}
+/* worker end */
+
+/* nipro */
+.nipro{
+    text-align: center;
+}
+.n_text h2{
+    font-size: 16px;
+}
+.n_btn{
+    margin-top: 30px;
+}
+/* nipro end */
+
+/* footer */
+.social_icon ul li{
+    margin: 5px;
+}
+.footer_bottom{
+    text-align: center;
+}
+.fb_links{
+    margin-top: 40px;
+    text-align: center;
+}
+/* footer end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start */
+.menu ul  li a{
+    font-size: 16px;
+    padding: 10px 0 0 !important;
+}
+.btn-search{
+    padding-left: 0;
+    font-size: 20px;
+}
+.btn-search i{
+    font-size: 21px;
+}
+.c_dd_menu[data-bs-popper] {
+    top: 70px;
+    left: 0;
+}
+/* header end */
+
+/* slider start */
+.slider_text{
+    margin: 100px 0;
+}
+.slider_text h1{
+    font-size: 40px;
+}
+/* slider end */
+
+/* service start */
+.s_single{
+    padding: 65px 35px 35px;
+    margin-top: 60px;
+}
+.s_icon{
+    margin-top: -87px;
+}
+/* service end */
+
+/* about start */
+.about{
+    padding-bottom: 80px;
+}
+.ab_image{
+    text-align: center;
+}
+.ab_text{
+    margin-top: 50px;
+    text-align: center;
+}
+.btn_about{
+    margin-top: 50px;
+}
+/* about end */
+
+/* choose start */
+.ch_single{
+    text-align: center;
+}
+.ch_title{
+    margin-top: 20px;
+}
+.ch_p{
+    margin: 10px 0;
+}
+/* choose end */
+
+/* worker */
+.image_bottom h2{
+    font-size: 16px;
+}
+.text_wrapper h2{
+    margin-top: 30px;
+}
+/* worker end */
+
+/* nipro */
+.nipro{
+    text-align: center;
+}
+.n_text h2{
+    font-size: 16px;
+}
+.n_btn{
+    margin-top: 30px;
+}
+/* nipro end */
+
+/* footer */
+.social_icon ul li{
+    margin: 5px;
+}
+.footer_bottom{
+    text-align: center;
+}
+.fb_links{
+    margin-top: 40px;
+    text-align: center;
+}
+/* footer end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start */
+.menu ul  li a{
+    padding: 10px 0 0 !important;
+}
+.btn-search{
+    padding-left: 0;
+    font-size: 22px;
+}
+.c_dd_menu[data-bs-popper] {
+    top: 70px;
+    left: 0;
+}
+/* header end */
+
+/* slider start */
+.slider_text{
+    margin: 130px 0;
+}
+.slider_text h1{
+    font-size: 48px;
+}
+/* slider end */
+
+/* service start */
+.s_single{
+    padding: 70px 35px 40px;
+}
+/* service end */
+
+/* about start */
+.about{
+    padding-bottom: 80px;
+}
+.ab_image{
+    text-align: center;
+}
+.ab_text{
+    margin-top: 50px;
+    text-align: center;
+}
+/* about end */
+
+/* choose start */
+.ch_single{
+    margin-top: 60px;
+    text-align: center;
+}
+.ch_title{
+    margin-top: 20px;
+}
+.ch_p{
+    margin: 10px 0;
+}
+/* choose end */
+
+/* worker */
+.text_wrapper h2{
+    margin-top: 30px;
+}
+/* worker end */
+
+/* footer */
+.footer_bottom p{
+    font-size: 14px;
+}
+.fb_links ul li a{
+    margin: 0;
+}
+/* footer end  */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* slider start */
+.slider_text h1{
+    font-size: 50px;
+}
+/* slider end */
+
+/* service start */
+.s_single{
+    padding: 50px 15px 25px;
+}
+.s_icon{
+    margin-top: -82px;
+}
+/* service end */
+
+/* about  */
+.ab_p{
+    margin: 20px 0;
+}
+.btn_about{
+    margin-top: 40px;
+}
+/* about end */
+
+/* footer start */
+.fb_links ul li a{
+    margin: 0 15px;
+}
+/* footer end */
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 3199.98px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+}
